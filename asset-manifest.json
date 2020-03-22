@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/LaloEspino/coronavirus-information/static/js/main.0499b12f.chunk.js",
-    "main.js.map": "/LaloEspino/coronavirus-information/static/js/main.0499b12f.chunk.js.map",
-    "runtime-main.js": "/LaloEspino/coronavirus-information/static/js/runtime-main.d87bf6ff.js",
-    "runtime-main.js.map": "/LaloEspino/coronavirus-information/static/js/runtime-main.d87bf6ff.js.map",
-    "static/js/2.9eeeff14.chunk.js": "/LaloEspino/coronavirus-information/static/js/2.9eeeff14.chunk.js",
-    "static/js/2.9eeeff14.chunk.js.map": "/LaloEspino/coronavirus-information/static/js/2.9eeeff14.chunk.js.map",
-    "index.html": "/LaloEspino/coronavirus-information/index.html",
-    "precache-manifest.106d5aacce1e93c905283e0759c0326a.js": "/LaloEspino/coronavirus-information/precache-manifest.106d5aacce1e93c905283e0759c0326a.js",
-    "service-worker.js": "/LaloEspino/coronavirus-information/service-worker.js",
-    "static/js/2.9eeeff14.chunk.js.LICENSE.txt": "/LaloEspino/coronavirus-information/static/js/2.9eeeff14.chunk.js.LICENSE.txt"
+    "main.js": "/coronavirus-information/static/js/main.0499b12f.chunk.js",
+    "main.js.map": "/coronavirus-information/static/js/main.0499b12f.chunk.js.map",
+    "runtime-main.js": "/coronavirus-information/static/js/runtime-main.1dd5fbaa.js",
+    "runtime-main.js.map": "/coronavirus-information/static/js/runtime-main.1dd5fbaa.js.map",
+    "static/js/2.9eeeff14.chunk.js": "/coronavirus-information/static/js/2.9eeeff14.chunk.js",
+    "static/js/2.9eeeff14.chunk.js.map": "/coronavirus-information/static/js/2.9eeeff14.chunk.js.map",
+    "index.html": "/coronavirus-information/index.html",
+    "precache-manifest.7bcfb67751459fa0aa05b077728c0233.js": "/coronavirus-information/precache-manifest.7bcfb67751459fa0aa05b077728c0233.js",
+    "service-worker.js": "/coronavirus-information/service-worker.js",
+    "static/js/2.9eeeff14.chunk.js.LICENSE.txt": "/coronavirus-information/static/js/2.9eeeff14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d87bf6ff.js",
+    "static/js/runtime-main.1dd5fbaa.js",
     "static/js/2.9eeeff14.chunk.js",
     "static/js/main.0499b12f.chunk.js"
   ]
